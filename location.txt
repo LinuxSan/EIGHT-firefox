@@ -1,0 +1,1 @@
+{"location":{"latitude":-53.039678,72.594888,"longitude":72.594888, "accuracy":20.0}}
